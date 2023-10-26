@@ -1,0 +1,270 @@
+    <td title="VALUE: 00 / 01
+RGB: #000000" width="5%" bgcolor="#000000">&nbsp;</td>
+    <td title="VALUE: 10 / 11
+RGB: #444400" width="5%" bgcolor="#444400">&nbsp;</td>
+    <td title="VALUE: 20 / 21
+RGB: #702800" width="5%" bgcolor="#702800">&nbsp;</td>
+    <td title="VALUE: 30 / 31
+RGB: #841800" width="5%" bgcolor="#841800">&nbsp;</td>
+    <td title="VALUE: 40 / 41
+RGB: #880000" width="5%" bgcolor="#880000">&nbsp;</td>
+    <td title="VALUE: 50 / 51
+RGB: #78005C" width="5%" bgcolor="#78005c">&nbsp;</td>
+    <td title="VALUE: 60 / 61
+RGB: #480078" width="5%" bgcolor="#480078">&nbsp;</td>
+    <td title="VALUE: 70 / 71
+RGB: #140084" width="5%" bgcolor="#140084">&nbsp;</td>
+    <td title="VALUE: 80 / 81
+RGB: #000088" width="5%" bgcolor="#000088">&nbsp;</td>
+    <td title="VALUE: 90 / 91
+RGB: #00187C" width="5%" bgcolor="#00187c">&nbsp;</td>
+    <td title="VALUE: A0 / A1
+RGB: #002C5C" width="5%" bgcolor="#002c5c">&nbsp;</td>
+    <td title="VALUE: B0 / B1
+RGB: #003C2C" width="5%" bgcolor="#003c2c">&nbsp;</td>
+    <td title="VALUE: C0 / C1
+RGB: #003C00" width="5%" bgcolor="#003c00">&nbsp;</td>
+    <td title="VALUE: D0 / D1
+RGB: #143800" width="5%" bgcolor="#143800">&nbsp;</td>
+    <td title="VALUE: E0 / E1
+RGB: #2C3000" width="5%" bgcolor="#2c3000">&nbsp;</td>
+    <td title="VALUE: F0 / F1
+RGB: #442800" width="5%" bgcolor="#442800">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">2-3</td>
+    <td title="VALUE: 02 / 03
+RGB: #404040" width="5%" bgcolor="#404040">&nbsp;</td>
+    <td title="VALUE: 12 / 13
+RGB: #646410" width="5%" bgcolor="#646410">&nbsp;</td>
+    <td title="VALUE: 22 / 23
+RGB: #844414" width="5%" bgcolor="#844414">&nbsp;</td>
+    <td title="VALUE: 32 / 33
+RGB: #983418" width="5%" bgcolor="#983418">&nbsp;</td>
+    <td title="VALUE: 42 / 43
+RGB: #9C2020" width="5%" bgcolor="#9c2020">&nbsp;</td>
+    <td title="VALUE: 52 / 53
+RGB: #8C2074" width="5%" bgcolor="#8c2074">&nbsp;</td>
+    <td title="VALUE: 62 / 63
+RGB: #602090" width="5%" bgcolor="#602090">&nbsp;</td>
+    <td title="VALUE: 72 / 73
+RGB: #302098" width="5%" bgcolor="#302098">&nbsp;</td>
+    <td title="VALUE: 82 / 83
+RGB: #1C209C" width="5%" bgcolor="#1c209c">&nbsp;</td>
+    <td title="VALUE: 92 / 93
+RGB: #1C3890" width="5%" bgcolor="#1c3890">&nbsp;</td>
+    <td title="VALUE: A2 / A3
+RGB: #1C4C78" width="5%" bgcolor="#1c4c78">&nbsp;</td>
+    <td title="VALUE: B2 / B3
+RGB: #1C5C48" width="5%" bgcolor="#1c5c48">&nbsp;</td>
+    <td title="VALUE: C2 / C3
+RGB: #205C20" width="5%" bgcolor="#205c20">&nbsp;</td>
+    <td title="VALUE: D2 / D3
+RGB: #345C1C" width="5%" bgcolor="#345c1c">&nbsp;</td>
+    <td title="VALUE: E2 / E3
+RGB: #4C501C" width="5%" bgcolor="#4c501c">&nbsp;</td>
+    <td title="VALUE: F2 / F3
+RGB: #644818" width="5%" bgcolor="#644818">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">4-5</td>
+    <td title="VALUE: 04 / 05
+RGB: #6C6C6C" width="5%" bgcolor="#6c6c6c">&nbsp;</td>
+    <td title="VALUE: 14 / 15
+RGB: #848424" width="5%" bgcolor="#848424">&nbsp;</td>
+    <td title="VALUE: 24 / 25
+RGB: #985C28" width="5%" bgcolor="#985c28">&nbsp;</td>
+    <td title="VALUE: 34 / 35
+RGB: #AC5030" width="5%" bgcolor="#ac5030">&nbsp;</td>
+    <td title="VALUE: 44 / 45
+RGB: #B03C3C" width="5%" bgcolor="#b03c3c">&nbsp;</td>
+    <td title="VALUE: 54 / 55
+RGB: #A03C88" width="5%" bgcolor="#a03c88">&nbsp;</td>
+    <td title="VALUE: 64 / 65
+RGB: #783CA4" width="5%" bgcolor="#783ca4">&nbsp;</td>
+    <td title="VALUE: 74 / 75
+RGB: #4C3CAC" width="5%" bgcolor="#4c3cac">&nbsp;</td>
+    <td title="VALUE: 84 / 85
+RGB: #3840B0" width="5%" bgcolor="#3840b0">&nbsp;</td>
+    <td title="VALUE: 94 / 95
+RGB: #3854A8" width="5%" bgcolor="#3854a8">&nbsp;</td>
+    <td title="VALUE: A4 / A5
+RGB: #386890" width="5%" bgcolor="#386890">&nbsp;</td>
+    <td title="VALUE: B4 / B5
+RGB: #387C64" width="5%" bgcolor="#387c64">&nbsp;</td>
+    <td title="VALUE: C4 / C5
+RGB: #407C40" width="5%" bgcolor="#407c40">&nbsp;</td>
+    <td title="VALUE: D4 / D5
+RGB: #507C38" width="5%" bgcolor="#507c38">&nbsp;</td>
+    <td title="VALUE: E4 / E5
+RGB: #687034" width="5%" bgcolor="#687034">&nbsp;</td>
+    <td title="VALUE: F4 / F5
+RGB: #846830" width="5%" bgcolor="#846830">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">6-7</td>
+    <td title="VALUE: 06 / 07
+RGB: #909090" width="5%" bgcolor="#909090">&nbsp;</td>
+    <td title="VALUE: 16 / 17
+RGB: #A0A034" width="5%" bgcolor="#a0a034">&nbsp;</td>
+    <td title="VALUE: 26 / 27
+RGB: #AC783C" width="5%" bgcolor="#ac783c">&nbsp;</td>
+    <td title="VALUE: 36 / 37
+RGB: #C06848" width="5%" bgcolor="#c06848">&nbsp;</td>
+    <td title="VALUE: 46 / 47
+RGB: #C05858" width="5%" bgcolor="#c05858">&nbsp;</td>
+    <td title="VALUE: 56 / 57
+RGB: #B0589C" width="5%" bgcolor="#b0589c">&nbsp;</td>
+    <td title="VALUE: 66 / 67
+RGB: #8C58B8" width="5%" bgcolor="#8c58b8">&nbsp;</td>
+    <td title="VALUE: 76 / 77
+RGB: #6858C0" width="5%" bgcolor="#6858c0">&nbsp;</td>
+    <td title="VALUE: 86 / 87
+RGB: #505CC0" width="5%" bgcolor="#505cc0">&nbsp;</td>
+    <td title="VALUE: 96 / 97
+RGB: #5070BC" width="5%" bgcolor="#5070bc">&nbsp;</td>
+    <td title="VALUE: A6 / A7
+RGB: #5084AC" width="5%" bgcolor="#5084ac">&nbsp;</td>
+    <td title="VALUE: B6 / B7
+RGB: #509C80" width="5%" bgcolor="#509c80">&nbsp;</td>
+    <td title="VALUE: C6 / C7
+RGB: #5C9C5C" width="5%" bgcolor="#5c9c5c">&nbsp;</td>
+    <td title="VALUE: D6 / D7
+RGB: #6C9850" width="5%" bgcolor="#6c9850">&nbsp;</td>
+    <td title="VALUE: E6 / E7
+RGB: #848C4C" width="5%" bgcolor="#848c4c">&nbsp;</td>
+    <td title="VALUE: F6 / F7
+RGB: #A08444" width="5%" bgcolor="#a08444">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">8-9</td>
+    <td title="VALUE: 08 / 09
+RGB: #B0B0B0" width="5%" bgcolor="#b0b0b0">&nbsp;</td>
+    <td title="VALUE: 18 / 19
+RGB: #B8B840" width="5%" bgcolor="#b8b840">&nbsp;</td>
+    <td title="VALUE: 28 / 29
+RGB: #BC8C4C" width="5%" bgcolor="#bc8c4c">&nbsp;</td>
+    <td title="VALUE: 38 / 39
+RGB: #D0805C" width="5%" bgcolor="#d0805c">&nbsp;</td>
+    <td title="VALUE: 48 / 49
+RGB: #D07070" width="5%" bgcolor="#d07070">&nbsp;</td>
+    <td title="VALUE: 58 / 59
+RGB: #C070B0" width="5%" bgcolor="#c070b0">&nbsp;</td>
+    <td title="VALUE: 68 / 69
+RGB: #A070CC" width="5%" bgcolor="#a070cc">&nbsp;</td>
+    <td title="VALUE: 78 / 79
+RGB: #7C70D0" width="5%" bgcolor="#7c70d0">&nbsp;</td>
+    <td title="VALUE: 88 / 89
+RGB: #6874D0" width="5%" bgcolor="#6874d0">&nbsp;</td>
+    <td title="VALUE: 98 / 99
+RGB: #6888CC" width="5%" bgcolor="#6888cc">&nbsp;</td>
+    <td title="VALUE: A8 / A9
+RGB: #689CC0" width="5%" bgcolor="#689cc0">&nbsp;</td>
+    <td title="VALUE: B8 / B9
+RGB: #68B494" width="5%" bgcolor="#68b494">&nbsp;</td>
+    <td title="VALUE: C8 / C9
+RGB: #74B474" width="5%" bgcolor="#74b474">&nbsp;</td>
+    <td title="VALUE: D8 / D9
+RGB: #84B468" width="5%" bgcolor="#84b468">&nbsp;</td>
+    <td title="VALUE: E8 / E9
+RGB: #9CA864" width="5%" bgcolor="#9ca864">&nbsp;</td>
+    <td title="VALUE: F8 / F9
+RGB: #B89C58" width="5%" bgcolor="#b89c58">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">A-B</td>
+    <td title="VALUE: 0A / 0B
+RGB: #C8C8C8" width="5%" bgcolor="#c8c8c8">&nbsp;</td>
+    <td title="VALUE: 1A / 1B
+RGB: #D0D050" width="5%" bgcolor="#d0d050">&nbsp;</td>
+    <td title="VALUE: 2A / 2B
+RGB: #CCA05C" width="5%" bgcolor="#cca05c">&nbsp;</td>
+    <td title="VALUE: 3A / 3B
+RGB: #E09470" width="5%" bgcolor="#e09470">&nbsp;</td>
+    <td title="VALUE: 4A / 4B
+RGB: #E08888" width="5%" bgcolor="#e08888">&nbsp;</td>
+    <td title="VALUE: 5A / 5B
+RGB: #D084C0" width="5%" bgcolor="#d084c0">&nbsp;</td>
+    <td title="VALUE: 6A / 6B
+RGB: #B484DC" width="5%" bgcolor="#b484dc">&nbsp;</td>
+    <td title="VALUE: 7A / 7B
+RGB: #9488E0" width="5%" bgcolor="#9488e0">&nbsp;</td>
+    <td title="VALUE: 8A / 8B
+RGB: #7C8CE0" width="5%" bgcolor="#7c8ce0">&nbsp;</td>
+    <td title="VALUE: 9A / 9B
+RGB: #7C9CDC" width="5%" bgcolor="#7c9cdc">&nbsp;</td>
+    <td title="VALUE: AA / AB
+RGB: #7CB4D4" width="5%" bgcolor="#7cb4d4">&nbsp;</td>
+    <td title="VALUE: BA / BB
+RGB: #7CD0AC" width="5%" bgcolor="#7cd0ac">&nbsp;</td>
+    <td title="VALUE: CA / CB
+RGB: #8CD08C" width="5%" bgcolor="#8cd08c">&nbsp;</td>
+    <td title="VALUE: DA / DB
+RGB: #9CCC7C" width="5%" bgcolor="#9ccc7c">&nbsp;</td>
+    <td title="VALUE: EA / EB
+RGB: #B4C078" width="5%" bgcolor="#b4c078">&nbsp;</td>
+    <td title="VALUE: FA / FB
+RGB: #D0B46C" width="5%" bgcolor="#d0b46c">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">C-D</td>
+    <td title="VALUE: 0C / 0D
+RGB: #DCDCDC" width="5%" bgcolor="#dcdcdc">&nbsp;</td>
+    <td title="VALUE: 1C / 1D
+RGB: #E8E85C" width="5%" bgcolor="#e8e85c">&nbsp;</td>
+    <td title="VALUE: 2C / 2D
+RGB: #DCB468" width="5%" bgcolor="#dcb468">&nbsp;</td>
+    <td title="VALUE: 3C / 3D
+RGB: #ECA880" width="5%" bgcolor="#eca880">&nbsp;</td>
+    <td title="VALUE: 4C / 4D
+RGB: #ECA0A0" width="5%" bgcolor="#eca0a0">&nbsp;</td>
+    <td title="VALUE: 5C / 5D
+RGB: #DC9CD0" width="5%" bgcolor="#dc9cd0">&nbsp;</td>
+    <td title="VALUE: 6C / 6D
+RGB: #C49CEC" width="5%" bgcolor="#c49cec">&nbsp;</td>
+    <td title="VALUE: 7C / 7D
+RGB: #A8A0EC" width="5%" bgcolor="#a8a0ec">&nbsp;</td>
+    <td title="VALUE: 8C / 8D
+RGB: #90A4EC" width="5%" bgcolor="#90a4ec">&nbsp;</td>
+    <td title="VALUE: 9C / 9D
+RGB: #90B4EC" width="5%" bgcolor="#90b4ec">&nbsp;</td>
+    <td title="VALUE: AC / AD
+RGB: #90CCE8" width="5%" bgcolor="#90cce8">&nbsp;</td>
+    <td title="VALUE: BC / BD
+RGB: #90E4C0" width="5%" bgcolor="#90e4c0">&nbsp;</td>
+    <td title="VALUE: CC / CD
+RGB: #A4E4A4" width="5%" bgcolor="#a4e4a4">&nbsp;</td>
+    <td title="VALUE: DC / DD
+RGB: #B4E490" width="5%" bgcolor="#b4e490">&nbsp;</td>
+    <td title="VALUE: EC / ED
+RGB: #CCD488" width="5%" bgcolor="#ccd488">&nbsp;</td>
+    <td title="VALUE: FC / FD
+RGB: #E8CC7C" width="5%" bgcolor="#e8cc7c">&nbsp;</td></tr>
+  <tr>
+    <td width="5%" nowrap="nowrap">E-F</td>
+    <td title="VALUE: 0E / 0F
+RGB: #ECECEC" width="5%" bgcolor="#ececec">&nbsp;</td>
+    <td title="VALUE: 1E / 1F
+RGB: #FCFC68" width="5%" bgcolor="#fcfc68">&nbsp;</td>
+    <td title="VALUE: 2E / 2F
+RGB: #ECC878" width="5%" bgcolor="#ecc878">&nbsp;</td>
+    <td title="VALUE: 3E / 3F
+RGB: #FCBC94" width="5%" bgcolor="#fcbc94">&nbsp;</td>
+    <td title="VALUE: 4E / 4F
+RGB: #FCB4B4" width="5%" bgcolor="#fcb4b4">&nbsp;</td>
+    <td title="VALUE: 5E / 5F
+RGB: #ECB0E0" width="5%" bgcolor="#ecb0e0">&nbsp;</td>
+    <td title="VALUE: 6E / 6F
+RGB: #D4B0FC" width="5%" bgcolor="#d4b0fc">&nbsp;</td>
+    <td title="VALUE: 7E / 7F
+RGB: #BCB4FC" width="5%" bgcolor="#bcb4fc">&nbsp;</td>
+    <td title="VALUE: 8E / 8F
+RGB: #A4B8FC" width="5%" bgcolor="#a4b8fc">&nbsp;</td>
+    <td title="VALUE: 9E / 9F
+RGB: #A4C8FC" width="5%" bgcolor="#a4c8fc">&nbsp;</td>
+    <td title="VALUE: AE / AF
+RGB: #A4E0FC" width="5%" bgcolor="#a4e0fc">&nbsp;</td>
+    <td title="VALUE: BE / BF
+RGB: #A4FCD4" width="5%" bgcolor="#a4fcd4">&nbsp;</td>
+    <td title="VALUE: CE / CF
+RGB: #B8FCB8" width="5%" bgcolor="#b8fcb8">&nbsp;</td>
+    <td title="VALUE: DE / DF
+RGB: #C8FCA4" width="5%" bgcolor="#c8fca4">&nbsp;</td>
+    <td title="VALUE: EE / EF
+RGB: #E0EC9C" width="5%" bgcolor="#e0ec9c">&nbsp;</td>
+    <td title="VALUE: FE / FF
+RGB: #FCE08C" width="5%" bgcolor="#fce08c">&nbsp;</td>
